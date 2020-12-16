@@ -1,13 +1,13 @@
 # Multivariate Data Analysis course.
 This is my repository which contains my asssignments for MDA course on Tu Delft.
 
-# First part 
+# First part (Stohastic Processes)
 
 First part is mainly focusing on Stohastic Processes. 
 * Random processes, Wide sense stationary (WSS) processes
 * Autocorellation function, Cross-correlation function, etc.
 
-# Second part
+# Second part (Statistical Learning)
 
 Secound part of the course consists of 3 components. 
 

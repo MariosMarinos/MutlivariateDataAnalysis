@@ -3,7 +3,9 @@ This is my repository which contains my asssignments for MDA course on Tu Delft.
 
 # First part 
 
-First part is mainly focusing on Stohastic Processes. Random processes, Wide stationary processes, Autocorellation function, Cross-correlation function, etc.
+First part is mainly focusing on Stohastic Processes. 
+* Random processes, Wide sense stationary (WSS) processes
+* Autocorellation function, Cross-correlation function, etc.
 
 # Second part
 

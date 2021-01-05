@@ -10,7 +10,7 @@ First part is mainly focusing on Stohastic Processes.
 ## Second part (Statistical Learning)
 Secound part of the course consists of 3 components. 
 
-* Linear regression methods (MLE, Bayesian parameter estimation)
-* Laplace Approximation, Markov Chain montelo carlo ( Metropolis-Hastings (MH) algorithm), Gibbs sampling
-* Gaussian Processes Regression
+* Linear regression methods (MLE, Bayesian parameter estimation (1st assignemnt)
+* Laplace Approximation, Markov Chain montelo carlo ( Metropolis-Hastings (MH) algorithm), Gibbs sampling (2nd assignment)
+* Gaussian Processes Regression (3rd assignment)
 
